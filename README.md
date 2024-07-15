@@ -14,18 +14,6 @@
 
 <br />
 
-## Preferred Stack
-
-- React+Typescript (Core)
-- Rsuite/SASS (Styling)
-- MobX (State Managemnet)
-- Axios/API Sauce (API)
-- Node/Express (Backend)
-- Postgress SQL (Database)
-- Vite/Ionic/Electron (Deployment)
-
-<br />
-
 ## Skills
 
 <div align="left" style="background-color: #00ff00;">
@@ -154,6 +142,18 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-plain.svg" height="30" alt="trello" title="trello" />
 </div>
+
+<br />
+
+## Preferred Stack
+
+- React+Typescript (Core)
+- Rsuite/SASS (Styling)
+- MobX (State Managemnet)
+- Axios/API Sauce (API)
+- Node/Express (Backend)
+- Postgress SQL (Database)
+- Vite/Ionic/Electron (Deployment)
 
 <br />
 
